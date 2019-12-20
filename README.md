@@ -2,7 +2,7 @@
 
 by Jin Zeng, Gene Cheung, Michael Ng, Jiahao Pang, Cheng Yang
 
-To appear on ##IEEE Trans. on Image Processing##
+To appear on IEEE Trans. on Image Processing
 
 ## Organization
 	|--- main_addnoise.m : main for adding noise to gt
